@@ -1,0 +1,50 @@
+header{
+	border:2px;
+	width: auto;
+	height: 150px;
+	background-color: #e60000;
+}
+footer{
+	border:2px;
+	width: auto;
+	height: 100px;
+	background-color: #e60000;
+	text-align: center
+}
+
+.logo{
+	width: 1000px;
+	height: 150px;
+
+}
+
+
+.content{
+	text-align: center;
+	align-content: center;
+	color: #800000;
+
+}
+#mytable {
+  font-family:  sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#mytable td, #mytable th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#mytable tr:nth-child(even){background-color: #f2f2f2;}
+
+#mytable tr:hover {background-color: #c3c3a2;}
+
+#mytable th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #009933;
+  color: white;
+}
+
